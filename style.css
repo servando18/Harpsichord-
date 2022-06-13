@@ -1,0 +1,48 @@
+body {
+  
+  text-align: center;
+  
+}
+
+.title {
+  color: #2e7ad3;
+  margin: 45px;
+  font-size: 48px;
+}
+
+.box {
+  background: #f1f1f1;
+  width: 500px;
+  margin:auto;
+ 
+}
+
+a:link {
+  color: #ff8000;
+}
+
+a:hover {
+  color: blue;
+}
+
+
+h2 {
+  text-align: left;
+  font-size: 32px;
+  color: #104c90;
+  margin: 25px;
+  padding-top: 25px;
+}
+
+p {
+  text-align: left;
+  margin-top: 25px;
+  font-size: 16px;
+  padding-left: 25px;
+  padding-right:25px;
+  
+}
+
+
+
+
